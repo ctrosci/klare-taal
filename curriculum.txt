@@ -1,0 +1,893 @@
+// Klare Taal curriculum
+// # unit title | icon            ## L | lesson title            ## D | dialogue title
+// item:  Dutch text | picture [| voice F/M/C]
+// focus: words   -> fill-in-the-gap exercises use these words
+// voices: F,M    -> dialogue voices for A (partner) and B (you)
+// Picture tokens (space separated):
+//   🍎 emoji   3*🍎 repeat   A/B stacked (A on top)   . spacer   A>B A inside B   A+B B in front of A
+//   ~X crossed out   !X highlighted (others dimmed)   ^X big   _X small
+//   @8:30 clock   #12 numeral tile   €2,50 price tag   D:135 week strip   M:5 month grid
+//   T:-1 / W:1 / Y:-1 timeline (day / week / year)
+
+# Eerste woorden | 👋
+
+## L | Mensen
+de man | 👨
+de vrouw | 👩
+de jongen | 👦
+het meisje | 👧
+de baby | 👶
+de opa | 👴
+de oma | 👵
+de man en de vrouw | 👨 👩
+de jongen en het meisje | 👦 👧
+
+## L | Wat doen ze?
+De man eet. | 👨 🍔
+De vrouw drinkt. | 👩 🥤
+De jongen speelt. | 👦 ⚽
+Het meisje leest. | 👧 📖
+De man slaapt. | 🛌
+De vrouw zwemt. | 🏊‍♀️
+De baby huilt. | 👶 😢
+Het meisje zingt. | 👧 🎤
+De man rent. | 🏃‍♂️
+De vrouw loopt. | 🚶‍♀️
+De man fietst. | 🚴‍♂️
+De vrouw kookt. | 👩‍🍳
+
+## L | Eten en drinken
+de appel | 🍎
+de banaan | 🍌
+het brood | 🍞
+de kaas | 🧀
+het ei | 🥚
+de melk | 🥛
+de koffie | ☕
+de thee | 🍵
+de soep | 🍲
+de taart | 🍰
+De jongen eet een appel. | 👦 🍎
+De vrouw drinkt koffie. | 👩 ☕
+Het meisje eet brood. | 👧 🍞
+De man drinkt thee. | 👨 🍵
+
+## L | Kleuren
+rood | 🔴
+blauw | 🔵
+geel | 🟡
+groen | 🟢
+oranje | 🟠
+paars | 🟣
+zwart | ⚫
+wit | ⚪
+bruin | 🟤
+De appel is rood. | 🍎
+De banaan is geel. | 🍌
+De auto is blauw. | 🚙
+Het blad is groen. | 🍃
+
+## L | Tellen tot tien
+één | 1*⚽
+twee | 2*⚽
+drie | 3*⚽
+vier | 4*⚽
+vijf | 5*⚽
+zes | 6*⚽
+zeven | 7*⚽
+acht | 8*⚽
+negen | 9*⚽
+tien | 10*⚽
+
+## L | Groeten
+Hallo! | 👋
+Goedemorgen! | 🌅
+Goedemiddag! | ☀️
+Goedenavond! | 🌆
+Goedenacht! | 🌙
+Tot ziens! | 🚪 👋
+Dank je wel! | 🙏
+Alsjeblieft. | 🎁
+Hoe gaat het? | 🙂 ❓
+Het gaat goed. | 😀 👍
+
+## D | Hallo!
+voices: F,M
+A: Hallo! Goedemorgen! | 👩 👋
+B: Goedemorgen! Hoe gaat het? | 🙋 🙂
+A: Goed, dank je. En met jou? | 👩 😀
+B: Ook goed, dank je. | 🙋 👍
+A: Fijn! Tot ziens! | 👩 🚪
+B: Dag! Tot ziens! | 🙋 👋
+
+# Ik en jij | 🙋
+
+## L | Ik ben, jij bent
+focus: ben, bent, is, zijn
+Ik ben een man. | 🙋‍♂️ | M
+Ik ben een vrouw. | 🙋‍♀️ | F
+Jij bent een jongen. | 👉 👦
+Jij bent een meisje. | 👉 👧
+Hij is een opa. | 👴
+Zij is een oma. | 👵
+Wij zijn een familie. | 👨‍👩‍👧
+Jullie zijn kinderen. | 👉 👦 👧
+Zij zijn vrienden. | 🧑‍🤝‍🧑
+Het is een kat. | 🐈
+
+## L | Ik heb, jij hebt
+focus: heb, hebt, heeft, hebben
+Ik heb een hond. | 🙋 🐕
+Jij hebt een kat. | 👉 🐈
+Hij heeft een fiets. | 👨 🚲
+Zij heeft een boek. | 👩 📕
+Wij hebben een auto. | 👨‍👩‍👧 🚗
+Zij hebben een huis. | 🧑‍🤝‍🧑 🏠
+Heb jij een vis? | 👉 🐟 ❓
+Ja, ik heb een vis. | 🙋 🐟 👍
+Nee, ik heb geen vis. | 🙋 ~🐟
+
+## L | Een en meer
+een hond | 🐕
+twee honden | 2*🐕
+een kat | 🐈
+drie katten | 3*🐈
+een boek | 📕
+vier boeken | 4*📕
+een kind | 🧒
+twee kinderen | 2*🧒
+een appel | 🍎
+vijf appels | 5*🍎
+een ei | 🥚
+zes eieren | 6*🥚
+
+## L | Groot en klein
+De olifant is groot. | ^🐘
+De muis is klein. | _🐁
+De man is oud. | 👴 🦯
+Het kind is jong. | 🧒 🧸
+De soep is warm. | 🍲 ♨️
+Het ijs is koud. | 🍦 🧊
+De vrouw is blij. | 👩 😀
+De jongen is verdrietig. | 👦 😢
+De man is moe. | 👨 🥱
+Het meisje is ziek. | 👧 🤒
+een grote hond | ^🐕
+een kleine kat | _🐈
+
+## D | Kennismaken
+voices: F,M
+A: Hallo! Ik ben Sanne. Hoe heet jij? | 👩 👋
+B: Hallo Sanne! Ik heet Tom. | 🙋 👋
+A: Leuk je te ontmoeten, Tom. | 👩 🤝
+B: Insgelijks. Waar kom je vandaan? | 🙋 🌍
+A: Ik kom uit Nederland. En jij? | 👩 🇳🇱
+B: Ik kom uit Amerika. | 🙋 🇺🇸
+A: Spreek je Nederlands? | 👩 💬
+B: Een beetje. Ik leer het nu. | 🙋 🤏
+
+# Familie en tijd | 👪
+
+## L | Mijn familie
+de vader | !👨 👩 👧
+de moeder | 👨 !👩 👧
+de dochter | 👨 👩 !👧
+de zoon | 👨 👩 !👦
+de broer | 👧 !👦
+de zus | 👦 !👧
+de opa | !👴 👵 👦
+de oma | 👴 !👵 👦
+de ouders | !👨 !👩 👦
+de kinderen | 👨 !👦 !👧
+het gezin | 👨‍👩‍👧‍👦
+
+## L | Tellen tot honderd
+elf | #11
+twaalf | #12
+dertien | #13
+veertien | #14
+vijftien | #15
+zestien | #16
+zeventien | #17
+achttien | #18
+negentien | #19
+twintig | #20
+eenentwintig | #21
+dertig | #30
+vijfendertig | #35
+vijftig | #50
+honderd | #100
+
+## L | Hoe laat is het?
+Het is één uur. | @1:00
+Het is twee uur. | @2:00
+Het is half drie. | @2:30
+Het is kwart over vier. | @4:15
+Het is kwart voor vijf. | @4:45
+Het is tien over zes. | @6:10
+Het is vijf voor zeven. | @6:55
+Het is twaalf uur. | @12:00
+Het is tien voor half negen. | @8:20
+Het is vijf over half tien. | @9:35
+
+## L | De week
+maandag | D:1
+dinsdag | D:2
+woensdag | D:3
+donderdag | D:4
+vrijdag | D:5
+zaterdag | D:6
+zondag | D:7
+het weekend | D:67
+Vandaag is het maandag. | 📍 D:1
+Op vrijdag werk ik niet. | D:5 ~💼
+
+## D | Op een feestje
+voices: C,M
+A: Hoi! Hoe oud ben jij? | 👩 🎂 ❓
+B: Ik ben dertig jaar. En jij? | 🙋 #30
+A: Ik ben vijfendertig. Heb je broers of zussen? | 👩 👦 👧 ❓
+B: Ja, ik heb een broer en twee zussen. | 🙋 👦 👧 👧
+A: Wat leuk! Hoe laat is het eigenlijk? | 👩 ⌚ ❓
+B: Het is half negen. | 🙋 @8:30
+A: Oh, ik moet gaan. Tot morgen! | 👩 🏃‍♀️
+B: Tot morgen! | 🙋 👋
+
+# Thuis | 🏠
+
+## L | Het huis
+het huis | 🏠
+de keuken | 🍳
+de badkamer | 🛁
+de slaapkamer | 🛏️
+de woonkamer | 🛋️
+de wc | 🚽
+de tuin | 🌷 🌳
+de deur | 🚪
+het raam | 🪟
+de trap | 🪜
+
+## L | Spullen
+de stoel | 🪑
+de lamp | 💡
+de klok | 🕰️
+de televisie | 📺
+de computer | 💻
+de telefoon | 📱
+de sleutel | 🔑
+de spiegel | 🪞
+de tas | 👜
+de boeken | 📚
+de pen | 🖊️
+de bril | 👓
+
+## L | Waar is de kat?
+focus: op, onder, naast, in, voor, achter, boven
+De kat zit op de stoel. | 🐈/🪑
+De kat zit onder de stoel. | 🪑/🐈
+De kat zit naast de stoel. | 🐈 🪑
+De kat zit in de doos. | 🐈>📦
+De auto staat voor het huis. | 🏠+🚗
+De boom staat achter het huis. | 🌳+🏠
+De vogel vliegt boven het huis. | 🐦/./🏠
+De sleutel ligt op het bed. | 🔑/🛏️
+De hond ligt naast het bed. | 🐕 🛏️
+De vis zwemt in het water. | 🐟>🌊
+
+## L | Er is, er zijn
+focus: is, zijn, geen, een
+Er is een kat in de tuin. | 🌳 🐈
+Er zijn twee katten in de tuin. | 🌳 2*🐈
+Er is een vis in het water. | 🌊 🐟
+Er zijn veel vissen. | 🌊 6*🐟
+Er is geen melk. | ~🥛
+Er is geen brood. | ~🍞
+Er zijn geen appels. | ~🍎
+Er is één stoel. | 🪑
+Er zijn vier stoelen. | 4*🪑
+
+## D | Mijn nieuwe huis
+voices: F,M
+A: Welkom in mijn nieuwe huis! | 👩 🏠
+B: Wat mooi! Hoeveel kamers zijn er? | 🙋 🚪 ❓
+A: Er zijn drie slaapkamers en een badkamer. | 👩 🛏️ 🛁
+B: En waar is de keuken? | 🙋 🍳 ❓
+A: De keuken is naast de woonkamer. | 👩 🍳 🛋️
+B: Heb je ook een tuin? | 🙋 🌳 ❓
+A: Ja, de tuin is achter het huis. | 👩 🌳+🏠
+
+# Eten en winkelen | 🛒
+
+## L | Op de markt
+de tomaat | 🍅
+de wortel | 🥕
+de aardappel | 🥔
+de ui | 🧅
+de sla | 🥬
+de aardbei | 🍓
+de druiven | 🍇
+de citroen | 🍋
+de peer | 🍐
+de sinaasappel | 🍊
+de komkommer | 🥒
+de paprika | 🫑
+
+## L | In de supermarkt
+de boter | 🧈
+de rijst | 🍚
+de pasta | 🍝
+het vlees | 🥩
+de kip | 🍗
+het bier | 🍺
+de wijn | 🍷
+de chocola | 🍫
+de koekjes | 🍪
+het mandje | 🧺
+de vis | 🐟
+de suiker | 🍬
+
+## L | Hoeveel kost het?
+Het kost één euro. | €1
+Het kost twee euro vijftig. | €2,50
+De tomaten kosten drie euro. | 🍅 €3
+Een kilo aardappels, alstublieft. | 🥔 #1kg
+Dat is duur. | 💎 €999
+Dat is goedkoop. | 🏷️ €0,10
+Hoeveel kost de kaas? | 🧀 €❓
+Kan ik pinnen? | 💳
+Ik betaal contant. | 💶
+Wilt u een tasje? | 🛍️ ❓
+
+## L | Ik wil graag...
+Ik wil graag een kop koffie. | ☕ 🙋
+Ik wil graag een glas water. | 🚰 🙋
+Mag ik de rekening? | 🧾 ❓
+Ik heb honger. | 😋 🍽️
+Ik heb dorst. | 🥵 🥤
+Ik eet geen vlees. | ~🥩
+Ik ben vegetariër. | 🥗
+Het eten is lekker. | 🍝 😋
+Eet smakelijk! | 🍽️ 😊
+Proost! | 🥂
+Nog een biertje, graag. | 🍺 ☝️
+
+## D | In het café
+voices: M,F
+A: Goedemiddag! Wat wilt u drinken? | 🧑‍🍳 🥤 ❓
+B: Ik wil graag een koffie met melk. | 🙋 ☕ 🥛
+A: En wilt u iets eten? | 🧑‍🍳 🍽️ ❓
+B: Ja, een broodje kaas, alstublieft. | 🙋 🥪
+A: Alstublieft. Verder nog iets? | 🧑‍🍳 🥪 ❓
+B: Nee, dank u. Mag ik de rekening? | 🙋 🧾
+A: Dat is zes euro vijftig. | 🧑‍🍳 €6,50
+B: Kan ik pinnen? | 🙋 💳
+A: Natuurlijk. | 🧑‍🍳 👍
+
+# Onderweg | 🚆
+
+## L | Vervoer
+de fiets | 🚲
+de auto | 🚗
+de bus | 🚌
+de trein | 🚆
+de tram | 🚊
+het vliegtuig | ✈️
+de boot | ⛴️
+de taxi | 🚕
+de metro | 🚇
+te voet | 🚶
+Ik ga met de fiets. | 🙋 🚲
+Zij gaat met de trein. | 👩 🚆
+
+## L | In de stad
+het station | 🚉
+de winkel | 🏪
+het ziekenhuis | 🏥
+de school | 🏫
+de bank | 🏦
+het hotel | 🏨
+de kerk | ⛪
+het museum | 🏛️
+het park | 🌳 🌳 🌳
+het postkantoor | 🏤
+de supermarkt | 🛒
+het restaurant | 🍽️
+
+## L | De weg vragen
+Waar is het station? | 🚉 ❓
+Ga rechtdoor. | ⬆️
+Ga naar links. | ⬅️
+Ga naar rechts. | ➡️
+Neem de eerste straat links. | 1️⃣ ⬅️
+Neem de tweede straat rechts. | 2️⃣ ➡️
+Het is ver. | 📍 #10km
+Het is dichtbij. | 📍 #200m
+Steek de brug over. | 🌉
+Bij het stoplicht ga je links. | 🚦 ⬅️
+Het is om de hoek. | ↪️ 🏪
+
+## L | Vraagwoorden
+focus: wie, wat, waar, wanneer, hoe, hoeveel, waarom, welke
+Wie is dat? | 👤 ❓
+Wat is dat? | 📦 ❓
+Waar is mijn sleutel? | 🔑 ❓
+Wanneer vertrekt de trein? | 🚆 🕐 ❓
+Hoe heet je? | 🙂 💬 ❓
+Hoeveel kost een kaartje? | 🎫 ❓
+Waarom huil je? | 😢 ❓
+Welke bus gaat naar het centrum? | 🚌 🚌 ❓
+
+## D | Op het station
+voices: F,M
+A: Goedemorgen. Waar wilt u naartoe? | 👩‍💼 🎫
+B: Naar Utrecht, alstublieft. Een enkele reis. | 🙋 ➡️
+A: Dat is acht euro twintig. | 👩‍💼 €8,20
+B: Hoe laat vertrekt de trein? | 🙋 🚆 ❓
+A: Om kwart over tien, van spoor vijf. | 👩‍💼 @10:15
+B: Moet ik overstappen? | 🙋 🔁 ❓
+A: Nee, het is een directe trein. | 👩‍💼 🚆 ➡️
+B: Dank u wel! | 🙋 🙏
+
+# Mijn dag | ⏰
+
+## L | Elke dag
+Ik word om zeven uur wakker. | ⏰ @7:00
+Ik sta op. | 🛏️ 🧍
+Ik douche. | 🚿
+Ik poets mijn tanden. | 🪥
+Ik kleed me aan. | 👕 👖
+Ik ontbijt. | 🥣
+Ik ga naar mijn werk. | 💼 🚶
+Ik kom om zes uur thuis. | 🏠 @6:00
+Ik kijk televisie. | 📺 🛋️
+Ik ga naar bed. | 🛏️ 🌙
+
+## L | Op, aan, uit
+focus: op, aan, uit, mee, dicht, terug
+Hij staat om zeven uur op. | 👨 ⏰
+Zij belt haar moeder op. | 👩 📞
+Ik ruim mijn kamer op. | 🧹
+De trein komt om negen uur aan. | 🚆 @9:00
+Doe het licht uit. | 💡 👇
+Doe de deur dicht. | 🚪 🔒
+Hij neemt een paraplu mee. | 👨 ☂️
+Ik kom morgen terug. | 🔙 🏠
+Zet de televisie aan. | 📺 👆
+
+## L | Kunnen, willen, moeten
+focus: kan, wil, moet, mag, kun
+Ik kan zwemmen. | 🏊 👍
+Ik kan niet koken. | ~🍳
+Ik wil slapen. | 😴
+Ik moet werken. | 💻 😓
+Mag ik binnenkomen? | 🚪 ❓
+Je mag hier niet roken. | 🚭
+Kun je me helpen? | 🆘 ❓
+Wil je koffie? | ☕ ❓
+We moeten de trein halen. | 🏃 🚆
+Hier mag je parkeren. | 🅿️
+
+## L | Altijd, soms, nooit
+focus: altijd, vaak, soms, nooit, elke
+Ik sport elke dag. | 🏋️ D:1234567
+Ik zwem twee keer per week. | 🏊 D:25
+Ik eet soms vis. | 🐟 D:4
+Ik lees vaak. | 📖 D:12457
+Ik drink altijd koffie. | ☕ ☕ ☕
+Ik ga nooit naar de bioscoop. | ~🎬
+Ik werk soms thuis. | 🏠 💻
+Ik fiets nooit naar mijn werk. | ~🚲 💼
+
+## D | Wat doe je morgen?
+voices: C,M
+A: Hé, wat doe je morgen? | 👩 📅 ❓
+B: Morgen moet ik werken tot vijf uur. | 🙋 💼 @5:00
+A: En daarna? Wil je mee naar de film? | 👩 🎬 ❓
+B: Ja, leuk! Hoe laat begint de film? | 🙋 🕐 ❓
+A: Om half acht. | 👩 @7:30
+B: Prima. Zullen we eerst samen eten? | 🙋 🍝 ❓
+A: Goed idee! Tot morgen! | 👩 👍
+
+# Weer en seizoenen | ☀️
+
+## L | Het weer
+Het regent. | 🌧️
+De zon schijnt. | ☀️
+Het sneeuwt. | 🌨️
+Het waait. | 💨
+Het is bewolkt. | ☁️
+Het onweert. | ⛈️
+Het is mistig. | 🌫️
+Het is warm. | 🌡️ 🥵
+Het is koud. | 🥶
+Er is een regenboog. | 🌈
+
+## L | De seizoenen
+de lente | 🌷
+de zomer | 🏖️
+de herfst | 🍂
+de winter | ⛄
+januari | M:1
+februari | M:2
+maart | M:3
+april | M:4
+mei | M:5
+juni | M:6
+
+## L | De maanden
+juli | M:7
+augustus | M:8
+september | M:9
+oktober | M:10
+november | M:11
+december | M:12
+Mijn verjaardag is in mei. | 🎂 M:5
+In de zomer is het warm. | 🏖️ 🥵
+In de winter sneeuwt het. | ⛄ 🌨️
+In de herfst vallen de bladeren. | 🍂 👇
+
+## L | Kleding
+de jas | 🧥
+het t-shirt | 👕
+de broek | 👖
+de jurk | 👗
+de schoenen | 👞
+de laarzen | 🥾
+de sjaal | 🧣
+de handschoenen | 🧤
+de pet | 🧢
+de hoed | 🎩
+de zonnebril | 🕶️
+de paraplu | ☂️
+
+## L | Wat trek ik aan?
+Het regent, dus ik neem een paraplu mee. | 🌧️ ☂️
+Het is koud. Doe je sjaal om! | 🥶 🧣
+De zon schijnt. Ik zet mijn zonnebril op. | ☀️ 🕶️
+Het sneeuwt. Ik trek mijn laarzen aan. | 🌨️ 🥾
+Het is warm. Ik draag een korte broek. | 🥵 🩳
+Ik draag een rode jurk. | 👗 🔴
+Het waait hard. Pas op je pet! | 💨 🧢
+Trek je jas aan! | 🧥 👆
+
+## D | Een praatje over het weer
+voices: F,M
+A: Wat een weer, hè? | 👩 🌧️
+B: Ja, het regent al de hele dag. | 🙋 🌧️ 🌧️
+A: Morgen wordt het beter, zeggen ze. | 👩 ⏩ ☀️
+B: Echt? Hoe warm wordt het? | 🙋 🌡️ ❓
+A: Twintig graden en zon! | 👩 #20° ☀️
+B: Heerlijk! Dan ga ik naar het strand. | 🙋 🏖️
+
+# Werk en school | 💼
+
+## L | Beroepen
+de dokter | 🧑‍⚕️
+de leraar | 🧑‍🏫
+de kok | 🧑‍🍳
+de politieagent | 👮
+de boer | 🧑‍🌾
+de brandweerman | 🧑‍🚒
+de piloot | 🧑‍✈️
+de monteur | 🧑‍🔧
+de programmeur | 🧑‍💻
+de zanger | 🧑‍🎤
+de schilder | 🧑‍🎨
+de onderzoeker | 🧑‍🔬
+
+## L | Op het werk
+Wat doe je voor werk? | 💼 ❓
+Ik ben leraar. | 🙋 🧑‍🏫
+Ik werk op een kantoor. | 🏢
+Ik werk in een ziekenhuis. | 🏥 🧑‍⚕️
+Ik werk thuis. | 🏠 💻
+Ik heb een vergadering. | 👥 📊
+Ik stuur een e-mail. | 📧
+De computer doet het niet. | 💻 ❌
+Mijn baas is aardig. | 👔 🙂
+Ik zoek een nieuwe baan. | 🔍 💼
+Ik heb vandaag vrij. | 📅 🎉
+
+## L | Op school
+de leerling | 🧑‍🎓
+het schrift | 📓
+het potlood | ✏️
+de rekenmachine | 🧮
+de schaar | ✂️
+de liniaal | 📏
+Ik leer Nederlands. | 🇳🇱 📖
+Ik studeer wiskunde. | ➕ ➗
+Ik heb huiswerk. | 📝
+De les begint om negen uur. | 🏫 @9:00
+Ik ben geslaagd! | 🎓 🎉
+
+## L | Straks en morgen
+focus: ga, gaat, gaan
+Morgen ga ik zwemmen. | T:1 🏊
+Volgend jaar ga ik naar Japan. | Y:1 🇯🇵
+Vanavond gaan we koken. | 🌙 🍳
+Het gaat regenen. | ☁️ ⏩ 🌧️
+Ik ga een huis kopen. | ⏩ 🏠 💶
+Zij gaat trouwen. | ⏩ 👰
+We gaan verhuizen. | 🏠 ➡️ 🏡
+Wat ga je doen in het weekend? | D:67 ❓
+
+## D | Een sollicitatiegesprek
+voices: M,F
+A: Goedemiddag, welkom. Gaat u zitten. | 👔 🪑
+B: Dank u wel. | 🙋 🙏
+A: Vertel eens iets over uzelf. | 👔 💬
+B: Ik heet Alex en ik ben programmeur. | 🙋 🧑‍💻
+A: Hoe lang werkt u al als programmeur? | 👔 ⏳ ❓
+B: Ik werk al vijf jaar als programmeur. | 🙋 #5
+A: Waarom wilt u hier werken? | 👔 🏢 ❓
+B: Omdat uw bedrijf heel interessant is. | 🙋 🏢 ⭐
+A: Kunt u maandag beginnen? | 👔 D:1 ❓
+B: Ja, dat kan! | 🙋 👍
+
+# Gisteren | ⏪
+
+## L | Ik heb gegeten
+focus: heb, heeft, hebben
+Ik heb een appel gegeten. | ⏪ 🍎
+Gisteren heb ik gewerkt. | T:-1 💻
+Ik heb koffie gedronken. | ⏪ ☕
+Hij heeft een boek gelezen. | ⏪ 👨 📖
+Zij heeft een brief geschreven. | ⏪ 👩 ✉️
+We hebben televisie gekeken. | ⏪ 📺
+Ik heb mijn moeder gebeld. | ⏪ 📞
+Ik heb een fiets gekocht. | ⏪ 🚲 💶
+Ik heb slecht geslapen. | ⏪ 😫
+Heb jij al gegeten? | 🍽️ ❓
+
+## L | Ik ben gegaan
+focus: ben, is, zijn
+Ik ben naar Amsterdam gegaan. | ⏪ 🚆 🏙️
+Zij is thuisgebleven. | ⏪ 👩 🏠
+We zijn naar het strand gefietst. | ⏪ 🚲 🏖️
+Hij is gevallen. | ⏪ 🤕
+De trein is al vertrokken. | ⏪ 🚆 💨
+Ik ben laat opgestaan. | ⏪ ⏰ 😱
+Het kind is gegroeid. | ⏪ 🧒 📏
+Ben je gisteren gekomen? | T:-1 🚪 ❓
+Ze zijn getrouwd. | ⏪ 💒
+
+## L | Wanneer?
+gisteren | T:-1
+vandaag | T:0
+morgen | T:1
+eergisteren | T:-2
+overmorgen | T:2
+vorige week | W:-1
+volgende week | W:1
+vorig jaar | Y:-1
+volgend jaar | Y:1
+
+## D | Het weekend
+voices: F,M
+A: Hoi! Wat heb je in het weekend gedaan? | 👩 D:67 ❓
+B: Ik ben naar Amsterdam gegaan. | 🙋 🚆 🏙️
+A: Leuk! Wat heb je daar gedaan? | 👩 ❓
+B: Ik heb het Rijksmuseum bezocht. | 🙋 🏛️
+A: En heb je ook lekker gegeten? | 👩 🍽️ ❓
+B: Ja, we hebben Indonesisch gegeten. | 🙋 🍛
+A: Wanneer ben je teruggekomen? | 👩 🏠 ❓
+B: Ik ben gisteravond laat thuisgekomen. | 🙋 🌙 🏠
+
+# Gezondheid | 🩺
+
+## L | Het lichaam
+de hand | ✋
+de voet | 🦶
+het been | 🦵
+de arm | 💪
+het oog | 👁️
+het oor | 👂
+de neus | 👃
+de mond | 👄
+de tand | 🦷
+het hart | 🫀
+de hersenen | 🧠
+
+## L | Ik voel me niet lekker
+Ik heb hoofdpijn. | 🤕
+Ik heb buikpijn. | 🤢
+Ik ben verkouden. | 🤧
+Ik heb koorts. | 🤒
+Mijn been doet pijn. | 🦵 ⚡
+Ik moet hoesten. | 😷
+Ik ben moe. | 🥱
+Ik voel me niet lekker. | 😣
+Ik moet naar de dokter. | 🏃 🧑‍⚕️
+Beterschap! | 💐
+
+## L | Bij de dokter
+Wat zijn uw klachten? | 🧑‍⚕️ ❓
+Sinds wanneer heeft u dat? | 📅 ❓
+Neem deze pillen drie keer per dag. | 3*💊
+U moet in bed blijven. | 🛏️ 🤒
+Drink veel water. | 🚰 💧
+Ik heb een recept nodig. | 📄 💊
+Ik heb een afspraak om tien uur. | 📅 @10:00
+Waar is de apotheek? | 💊 🏪 ❓
+Ik ben allergisch voor noten. | 🥜 ⚠️
+Het is niet ernstig. | 🧑‍⚕️ 👍
+
+## D | Bij de huisarts
+voices: C,M
+A: Goedemorgen. Wat kan ik voor u doen? | 🧑‍⚕️ 🙂
+B: Ik voel me niet lekker. Ik heb koorts en hoofdpijn. | 🙋 🤒
+A: Sinds wanneer heeft u dat? | 🧑‍⚕️ 📅 ❓
+B: Sinds gisteren. | 🙋 T:-1
+A: Ik denk dat u griep heeft. Blijf een paar dagen in bed. | 🧑‍⚕️ 🛏️
+B: Moet ik medicijnen nemen? | 🙋 💊 ❓
+A: Neem paracetamol en drink veel water. | 🧑‍⚕️ 💊 💧
+B: Dank u wel, dokter. | 🙋 🙏
+
+# Vrije tijd | 🎨
+
+## L | Hobby's
+Ik speel gitaar. | 🎸
+Ik speel voetbal. | ⚽ 🥅
+Ik schilder. | 🎨
+Ik maak graag foto's. | 📷
+Ik wandel graag. | 🥾 🌲
+Ik kijk graag films. | 🎬 🍿
+Ik speel piano. | 🎹
+Ik ga graag vissen. | 🎣
+Ik doe aan yoga. | 🧘
+Ik speel schaak. | ♟️
+Ik werk graag in de tuin. | 🌻 🧑‍🌾
+Ik reis graag. | 🧳 ✈️
+
+## L | Wat vind je ervan?
+Ik vind het leuk. | 👍 😀
+Ik vind het niet leuk. | 👎 😕
+Ik vind voetbal saai. | ⚽ 😴
+Ik vind dit boek spannend. | 📖 😮
+Dit eten vind ik vies. | 🍲 🤢
+Ik hou van muziek. | 🎵 ❤️
+Ik hou niet van spinnen. | 🕷️ 😨
+Wat vind jij van deze film? | 🎬 ❓
+Ik ben het met je eens. | 🤝 👍
+Dat is een goed idee. | 💡 👍
+Ik weet het niet. | 🤷
+
+## L | Groter en kleiner
+focus: dan, als, groter, kleiner, sneller
+De olifant is groter dan de muis. | ^🐘 _🐁
+De muis is kleiner dan de kat. | _🐁 🐈
+De trein is sneller dan de fiets. | 🚆 🚲
+Het vliegtuig is het snelst. | !✈️ 🚆 🚲
+Mijn opa is ouder dan mijn vader. | 👴 👨
+Hij is even groot als zij. | 👨 = 👩
+Ik vind de zomer mooier dan de winter. | 🏖️ 👍 ⛄
+goed, beter, best | 🥉 🥈 🥇
+Dit is het beste restaurant. | 🍽️ 🥇
+
+## L | Omdat en want
+focus: omdat, want, dat, als, of
+Ik blijf thuis, omdat het regent. | 🏠 🌧️
+Ik ga slapen, want ik ben moe. | 🛏️ 🥱
+Ik denk dat het gaat sneeuwen. | 💭 🌨️
+Ik weet dat hij ziek is. | 💭 👨 🤒
+Als het mooi weer is, gaan we naar het strand. | ☀️ ➡️ 🏖️
+Ik hoop dat je snel beter wordt. | 💐 🙏
+Hij leert Nederlands, want hij woont in Nederland. | 👨 🇳🇱 📖
+Ik weet niet waar mijn sleutels zijn. | 🔑 🤷
+Ik vraag of de winkel open is. | 🏪 ❓
+
+## D | Plannen voor zaterdag
+voices: F,M
+A: Heb je zin om zaterdag iets te doen? | 👩 D:6 ❓
+B: Ja, graag! Wat wil je doen? | 🙋 😀
+A: Ik wil naar de markt en daarna naar een museum. | 👩 🍅 🏛️
+B: Ik vind musea een beetje saai. Zullen we gaan fietsen? | 🙋 🚲 ❓
+A: Goed idee, als het niet regent. | 👩 ~🌧️
+B: Volgens het weerbericht wordt het zonnig. | 🙋 📺 ☀️
+A: Top! Dan zie ik je om tien uur bij het station. | 👩 @10:00 🚉
+
+# Vroeger | 📜
+
+## L | Toen ik klein was
+Toen ik klein was, woonde ik in een dorp. | ⏪ 🧒 🏡
+Ik speelde elke dag buiten. | ⏪ 🧒 ⚽
+Mijn vader werkte op een boerderij. | ⏪ 🧑‍🌾 🐄
+We hadden een hond. | ⏪ 🐕
+Ik was een rustig kind. | ⏪ 🧒 😌
+Mijn oma bakte elke zondag een taart. | ⏪ 👵 🍰
+Ik ging met de fiets naar school. | ⏪ 🚲 🏫
+We keken samen naar tekenfilms. | ⏪ 📺 🧒
+Het was een mooie tijd. | ⏪ 😊
+Vroeger was alles anders. | ⏪ 📻
+
+## L | Wat gebeurde er?
+Het was donker en het regende. | 🌙 🌧️
+Plotseling hoorde ik een geluid. | 👂 💥
+Ik deed de deur open. | 🚪 🖐️
+Er stond een man voor de deur. | 🚪 🧍‍♂️
+Hij vroeg de weg naar het station. | 🧍‍♂️ 🚉 ❓
+Ik gaf hem een kaart. | 🗺️ 🤲
+Hij bedankte me en liep weg. | 🙏 🚶‍♂️
+Daarna ging ik weer naar binnen. | 🏠 🔙
+
+## L | Ik zou graag...
+focus: zou, zouden
+Ik zou graag naar Japan willen gaan. | 💭 🇯🇵
+Zou je me kunnen helpen? | 🙏 ❓
+Als ik rijk was, zou ik een groot huis kopen. | 💰 🏰
+Wat zou jij doen? | 🤔 ❓
+Ik zou dat niet doen. | 🙅
+Je zou meer moeten slapen. | 👉 😴
+Dat zou leuk zijn! | 😃
+Zouden jullie mee willen komen? | 👉 👥 ❓
+
+## D | Herinneringen
+voices: C,M
+A: Waar woonde je toen je klein was? | 👩 🧒 ❓
+B: Ik woonde in een klein dorp bij de zee. | 🙋 🏡 🌊
+A: Wat deed je graag als kind? | 👩 ⚽ ❓
+B: Ik speelde altijd op het strand met mijn broer. | 🙋 🏖️ 👦
+A: Mis je die tijd? | 👩 💭 ❓
+B: Soms. Ik zou graag nog eens teruggaan. | 🙋 💭 🔙
+
+# Het dagelijks leven | 🇳🇱
+
+## L | Aan de telefoon
+Met Tom. | 📞 🙋
+Kan ik Lisa spreken? | 📞 👩 ❓
+Een ogenblikje, alstublieft. | ⏳
+Ze is er niet. | 🚪 ~👩
+Kan ik een bericht achterlaten? | 📝 ❓
+Kunt u dat herhalen? | 🔁 ❓
+Kunt u langzamer praten? | 🐢 💬
+Ik bel u terug. | 📞 🔙
+Ik versta u niet goed. | 👂 ❓
+
+## L | Afspraken maken
+Heb je zin om mee te gaan? | 🎟️ ❓
+Ja, graag! | 👍 😀
+Helaas kan ik niet. | 😔 ✋
+Zullen we om acht uur afspreken? | @8:00 🤝
+Komt dat goed uit? | 📅 ❓
+Ik kom iets later. | ⏰ 🏃
+Sorry dat ik te laat ben. | 🙇 ⏰
+Je bent van harte welkom. | 🚪 🤗
+Bedankt voor de uitnodiging. | ✉️ 🙏
+Gefeliciteerd met je verjaardag! | 🎂 🎉
+Prettig weekend! | D:67 😊
+
+## L | Problemen oplossen
+Ik ben mijn portemonnee kwijt. | 👛 ❓
+Mijn telefoon is kapot. | 📱 💥
+De verwarming doet het niet. | 🌡️ ❌
+Ik heb de bus gemist. | 🚌 💨 😩
+Kunt u een taxi bellen? | 🚕 📞
+Waar kan ik dit laten repareren? | 🔧 ❓
+Ik wil dit graag ruilen. | 🛍️ 🔁
+Mag ik mijn geld terug? | 💶 🔙
+Er is iets misgegaan. | ⚠️
+Geen probleem! | 👌
+
+## L | Nederland
+Nederland is een klein land. | 🇳🇱 🗺️
+Er zijn veel fietsen in Nederland. | 🇳🇱 5*🚲
+De hoofdstad is Amsterdam. | 🏙️ ⭐
+Op Koningsdag draagt iedereen oranje. | 👑 🟠
+Nederlanders eten vaak brood met kaas. | 🍞 🧀
+Het regent vaak in Nederland. | 🇳🇱 🌧️
+In Amsterdam zijn veel grachten. | 🛶 🏘️
+In de lente bloeien de tulpen. | 3*🌷
+Sinterklaas komt in december. | 🎁 M:12
+Veel mensen spreken ook Engels. | 💬 🇬🇧
+
+## D | De nieuwe buurvrouw
+voices: F,M
+A: Hoi, ik ben je nieuwe buurvrouw, Eva. | 👩 🏠 👋
+B: Welkom in de straat! Ik ben Sam. | 🙋 🏘️
+A: Woon je hier al lang? | 👩 ⏳ ❓
+B: Ik woon hier al drie jaar. Het is een fijne buurt. | 🙋 #3 😊
+A: Weet je waar de dichtstbijzijnde supermarkt is? | 👩 🛒 ❓
+B: Ja, die is om de hoek, naast de bakker. | 🙋 ↪️ 🥖
+A: Super, bedankt! Kom je een keer koffie drinken? | 👩 ☕ ❓
+B: Graag! Zaterdagmiddag komt mij goed uit. | 🙋 D:6 👍
